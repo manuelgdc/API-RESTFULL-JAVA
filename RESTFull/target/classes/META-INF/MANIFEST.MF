@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RESTFull
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Manuel
+Implementation-Vendor-Id: com.restfull
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/RESTFull
+Created-By: Maven Integration for Eclipse
+
